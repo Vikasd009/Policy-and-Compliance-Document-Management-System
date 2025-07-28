@@ -1,4 +1,4 @@
-                                    Policy and Compliance Document Management System
+Policy and Compliance Document Management System
 
 A Spring Boot application that helps organizations manage, store, and access internal policy and compliance documents securely. It supports features like user registration, login, document upload, view, update, and delete.
 
