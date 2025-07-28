@@ -3,7 +3,18 @@ Policy and Compliance Document Management System
 A Spring Boot application that helps organizations manage, store, and access internal policy and compliance documents securely. It supports features like user registration, login, document upload, view, update, and delete.
 
 
-Step-by-Step process to Run this Spring Boot Project in Postman :
+1. Download the zip file
+
+2. Extract the file
+
+3. Open that project folder in Spring Boot
+
+4. Run the Application
+
+5. Then Verify in Postman
+
+
+Step-by-Step Process to Execute in Postman :
 
 
 1. Register a User
